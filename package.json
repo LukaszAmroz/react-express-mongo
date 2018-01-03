@@ -7,7 +7,12 @@
     "server": "node --inspect ./server/index",
     "start": "webpack --colors && npm run server"
   },
-  "keywords": ["React", "Express", "MongoDB", "Node"],
+  "keywords": [
+    "React",
+    "Express",
+    "MongoDB",
+    "Node"
+  ],
   "author": "Łukasz Amróz",
   "license": "MIT",
   "dependencies": {
